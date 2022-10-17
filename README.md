@@ -1,4 +1,4 @@
-### Hello everybody! 👋 I'm Ruslan. Welcome to this GitHub repo.
+## <div align="center">Hello everybody! 👋 I'm Ruslan. Welcome to this GitHub repo.</div>
 
 <!--
 **mentor-dev/mentor-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
