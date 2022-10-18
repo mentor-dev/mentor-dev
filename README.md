@@ -29,7 +29,7 @@
 
 ### This repository presented work I did during studying testing.
 
-[QA-Learning](https://github.com/mentor-dev/QA-Learning#start)
+**[QA-Learning](https://github.com/mentor-dev/QA-Learning#start)**
 
 - [Testing Web Application](https://github.com/mentor-dev/QA-Learning/tree/main/Testing_Web_Application#start)
 - [API Testing](https://github.com/mentor-dev/QA-Learning/tree/main/API_Testing#start)
