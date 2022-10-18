@@ -41,9 +41,9 @@
 
 <div align="center">
 
-<a href="https://mentor-dev.github.io/certificates/techmission/certificate_ruslan_lysenko_techmission_2022_10_13.pdf"><img title="Certificate Techmission (QA Engineer)" src="https://mentor-dev.github.io/certificates/techmission/certificate_ruslan_lysenko_techmission_2022_10_13.png" height="150px"></a>
-<a href="https://mentor-dev.github.io/certificates/qwasar/certificate_ruslan_lysenko_qwasar_2022_09_14.pdf"><img title="Certificate Qwasar (Full stack development)" src="https://mentor-dev.github.io/certificates/qwasar/certificate_ruslan_lysenko_qwasar_2022_09_14.png" height="150px"></a>
-<a href="https://mentor-dev.github.io//cv/CV_Ruslan_Lysenko_QA_2022_10_18.pdf"><img title="CV - QA Emgineer" src="https://mentor-dev.github.io//cv/CV_Ruslan_Lysenko_QA_previw.png" height="150px"></a>
+<a href="https://mentor-dev.github.io/certificates/techmission/certificate_ruslan_lysenko_techmission_2022_10_13.pdf" target="_blank"><img title="Certificate Techmission (QA Engineer)" src="https://mentor-dev.github.io/certificates/techmission/certificate_ruslan_lysenko_techmission_2022_10_13.png" height="150px"></a>
+<a href="https://mentor-dev.github.io/certificates/qwasar/certificate_ruslan_lysenko_qwasar_2022_09_14.pdf" target="_blank"><img title="Certificate Qwasar (Full stack development)" src="https://mentor-dev.github.io/certificates/qwasar/certificate_ruslan_lysenko_qwasar_2022_09_14.png" height="150px"></a>
+<a href="https://mentor-dev.github.io//cv/CV_Ruslan_Lysenko_QA_2022_10_18.pdf" target="_blank"><img title="CV - QA Emgineer" src="https://mentor-dev.github.io//cv/CV_Ruslan_Lysenko_QA_previw.png" height="150px"></a>
 
 </div>
 
