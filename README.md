@@ -54,9 +54,9 @@
 
 [![Header](https://img.shields.io/badge/Linkedin-282D33?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/ruslan--lysenko/)
 
+---
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mentor-dev&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mentor-dev&show_icons=true&theme=github_dark&count_private=true&hide=contribs&include_all_commits=true)
 
 
 <!--
