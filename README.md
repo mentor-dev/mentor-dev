@@ -26,16 +26,16 @@ These are the tools and technologies I have mastered:
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)  
 ![Header](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=E44C30)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
+![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=0052cc)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)  
 ![Header](https://img.shields.io/badge/SQLite-090909?style=for-the-badge&logo=sqlite&logoColor=1078C5)
-![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)  
+![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=4479a1)  
 ![Header](https://img.shields.io/badge/Android%20Studio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/Charles%20Proxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)  
-![Header](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=EAD41C)
-![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html&logoColor=00618a)
-![Header](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css&logoColor=00618a)
+![Header](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5&logoColor=e34f26)
+![Header](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3&logoColor=157286)
 
 </div>
 
@@ -43,7 +43,7 @@ These are the tools and technologies I have mastered:
 
 ### Follow Me
 
-[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/ruslan--lysenko/)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/ruslan--lysenko/)
 
 
 
