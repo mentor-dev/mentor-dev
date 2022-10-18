@@ -1,6 +1,6 @@
-## <div align="center">Hello, Everybody! 👋 I'm Ruslan. Welcome to this GitHub repo.</div>
+## <div align="center">Hello, Everybody! 👋 I'm Ruslan. Welcome to this GitHub repository.</div>
 
-#### I have finished courses in manual testing, and now I am finding work as a QA Engineer.
+#### I have finished courses in manual testing, and now I am looking for a job as a QA Engineer.
 
 --- 
 
@@ -51,11 +51,11 @@
 
 ### Follow Me
 
-[![Header](https://img.shields.io/badge/Linkedin-282D33?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/ruslan--lysenko/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-282D33?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/ruslan--lysenko/)
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mentor-dev&show_icons=true&theme=github_dark&count_private=true&hide=contribs&include_all_commits=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mentor-dev&show_icons=true&theme=github_dark&count_private=true&hide=contribs&include_all_commits=true)
 
 
 <!--
