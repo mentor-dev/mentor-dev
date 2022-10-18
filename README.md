@@ -1,23 +1,10 @@
 ## <div align="center">Hello, Everybody! 👋 I'm Ruslan. Welcome to this GitHub repo.</div>
 
-<!--
-**mentor-dev/mentor-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I have finished courses in manual testing, and now I am finding work as a QA Engineer.
 
-Here are some ideas to get you started:
+--- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I have finished courses in manual testing, and now I am finding work as a QA Engineer.
-
-These are the tools and technologies I have mastered:
+### These are the tools and technologies I have mastered:
 
 <div align="center">
 
@@ -38,6 +25,20 @@ These are the tools and technologies I have mastered:
 
 </div>
 
+---
+
+### This repository presented work I did during studying testing.
+
+[QA-Learning](https://github.com/mentor-dev/QA-Learning#start)
+
+- [Testing Web Application](#https://github.com/mentor-dev/QA-Learning/tree/main/Testing_Web_Application#start)
+- [API Testing](#https://github.com/mentor-dev/QA-Learning/tree/main/API_Testing#start)
+- [SQL](#https://github.com/mentor-dev/QA-Learning/tree/main/SQL#start)
+
+---
+
+
+
 
 
 ### Follow Me
@@ -49,11 +50,29 @@ These are the tools and technologies I have mastered:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mentor-dev&show_icons=true&theme=radical)
 
 
+<!--
+**mentor-dev/mentor-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <!--
 https://www.youtube.com/watch?v=1yELlB39TvY - video to make README.md
 
-https://shields.io/ - Badges
+https://github.com/badges/shields - Badges
 
 https://www.base64-image.de/ - icons to base64 (for bages)
+
+https://github.com/anuraghazra/github-readme-stats - github stats
+
+https://github.com/ABSphreak/readme-jokes - readme jokes
 -->
