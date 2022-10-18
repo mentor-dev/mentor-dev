@@ -39,8 +39,12 @@
 
 ### Certificates I earned and my CV
 
+<div align="center">
+
 <img src="https://mentor-dev.github.io/certificates/techmission/certificate_ruslan_lysenko_techmission_2022_10_13.png" width="150px">
 <img src="https://mentor-dev.github.io/certificates/qwasar/certificate_ruslan_lysenko_qwasar_2022_09_14.png" width="150px">
+
+</div>
 
 ---
 
