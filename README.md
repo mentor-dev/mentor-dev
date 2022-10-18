@@ -27,7 +27,7 @@
 
 ---
 
-### This repository presented work I did during studying testing
+### The following repository presented work I did during studying testing
 
 > **[QA-Learning](https://github.com/mentor-dev/QA-Learning#start "Work I did during studying testing")**
 > 
@@ -48,8 +48,6 @@
 </div>
 
 ---
-
-
 
 ### Follow Me
 
