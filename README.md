@@ -4,7 +4,7 @@
 
 --- 
 
-### These are the tools and technologies I have mastered:
+### These are the tools and technologies I have mastered
 
 <div align="center">
 
@@ -27,7 +27,7 @@
 
 ---
 
-### This repository presented work I did during studying testing.
+### This repository presented work I did during studying testing
 
 **[QA-Learning](https://github.com/mentor-dev/QA-Learning#start)**
 
@@ -37,7 +37,12 @@
 
 ---
 
+### Certificates I earned and my CV
 
+<img src="https://mentor-dev.github.io/certificates/techmission/certificate_ruslan_lysenko_techmission_2022_10_13.png" width="150px">
+<img src="https://mentor-dev.github.io/certificates/qwasar/certificate_ruslan_lysenko_qwasar_2022_09_14.png" width="150px">
+
+---
 
 
 
