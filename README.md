@@ -1,6 +1,6 @@
 ## <div align="center">Hello, Everybody! 👋 I'm Ruslan. Welcome to this GitHub repository.</div>
 
-#### I have finished courses in manual testing, and now I am looking for a job as a QA Engineer.
+### I have finished courses in manual testing, and now I am looking for a job as a QA Engineer.
 
 --- 
 
@@ -29,7 +29,7 @@
 
 ### The following repository presented work I did during studying testing
 
-> **[QA-Learning](https://github.com/mentor-dev/QA-Learning#start "Work I did during studying testing")**
+> **👉 [QA-Learning](https://github.com/mentor-dev/QA-Learning#start "Work I did during studying testing")**
 > 
 > - [Testing Web Application](https://github.com/mentor-dev/QA-Learning/tree/main/Testing_Web_Application#start)
 > - [API Testing](https://github.com/mentor-dev/QA-Learning/tree/main/API_Testing#start)
