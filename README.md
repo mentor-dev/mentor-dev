@@ -43,7 +43,8 @@
 
 <a href="https://mentor-dev.github.io/certificates/techmission/certificate_ruslan_lysenko_techmission_2022_10_13.pdf" target="_blank"><img title="Certificate Techmission (QA Engineer)" src="https://mentor-dev.github.io/certificates/techmission/certificate_ruslan_lysenko_techmission_2022_10_13.png" height="150px"></a>
 <a href="https://mentor-dev.github.io/certificates/qwasar/certificate_ruslan_lysenko_qwasar_2022_09_14.pdf" target="_blank"><img title="Certificate Qwasar (Full stack development)" src="https://mentor-dev.github.io/certificates/qwasar/certificate_ruslan_lysenko_qwasar_2022_09_14.png" height="150px"></a>
-<a href="https://mentor-dev.github.io/cv/CV_Ruslan_Lysenko_QA_Junior.pdf" target="_blank"><img title="CV - QA Emgineer" src="https://mentor-dev.github.io/cv/CV_Ruslan_Lysenko_QA_Junior_preview.png" height="150px"></a>
+<a href="https://mentor-dev.github.io/certificates/coursera/bash_basics/coursera_command_line_basics_in_linux.pdf" target="_blank"><img title="Certificate Coursera (Command Line Basics in Linux)" src="https://mentor-dev.github.io/certificates/coursera/bash_basics/coursera_command_line_basics_in_linux.png" height="150px"></a>
+<a href="https://mentor-dev.github.io/cv/CV_Ruslan_Lysenko_QA_Junior.pdf" target="_blank"><img title="CV - Junior QA Emgineer" src="https://mentor-dev.github.io/cv/CV_Ruslan_Lysenko_QA_Junior_preview.png" height="150px"></a>
 
 </div>
 
