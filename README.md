@@ -68,7 +68,7 @@
 
 ---
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mentor-dev&show_icons=true&theme=github_dark&count_private=true&hide=contribs)
+![My GitHub stats](https://github-readme-stats-three-sigma-24.vercel.app/api?username=mentor-dev&show_icons=true&theme=github_dark&count_private=true&hide=contribs)
 
 
 <!--
