@@ -33,13 +33,15 @@
 
 ---
 
-### The following repository presented work I did during studying testing
+### The following repositories presented work I did during studying testing and programming
 
 > **👉 [QA-Learning](https://github.com/mentor-dev/QA-Learning#start "Work I did during studying testing")**
-> 
+>
 > - [**Testing Web Application** (Checklists, Test cases, Bug reports, Jira)](https://github.com/mentor-dev/QA-Learning/tree/main/Testing_Web_Application#start)
 > - [**API Testing** (Swagger, Postman, JMeter)](https://github.com/mentor-dev/QA-Learning/tree/main/API_Testing#start)
 > - [**SQL** (SQLite)](https://github.com/mentor-dev/QA-Learning/tree/main/SQL#start)
+
+> **👉 [Java-Learning](https://github.com/mentor-dev/Java-Learning#start "Tasks I solved during studying Java")**
 
 ---
 
