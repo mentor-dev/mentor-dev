@@ -23,6 +23,7 @@
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-282D33?style=for-the-badge&logo=virtualbox&logoColor=183A61)
 ![VMware](https://img.shields.io/badge/VMware%20Workstation-282D33?style=for-the-badge&logo=vmware&logoColor=607078)
 ![AndroidStudio](https://img.shields.io/badge/Android%20Studio-282D33?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)  
+![Java](https://img.shields.io/badge/Java-282D33?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGBAMAAACDAP+3AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAAPUExURQB0veotLv///wB0veotLqQ9+ywAAAADdFJOUwAAAPp2xN4AAAFXSURBVEjHzZbLbcQwDEQfwg62AkdRAQKmggjqv6Yc/IklMpYOARKedoHn4ZBDL5Y0L/6aqQtMW2HqnMn1V3Tygp8Vpn1OmbzAtDbdc15gWqvD+MQyrb1+ZnJrdbRE1GlwRCCTn7PYkec9tzbdT27VpT4ykRvPBK16Ji8wh07c6/01Z+4X2Kazp9S6PKMdnqk+5VWDZvhXYpZXWmGyPx9/q0GoJ7MBqJDy/tMCEvQMYFIhpZpq2kCSHCOpALy1lMDAVAbmIPYyCZAcIxXTWQWwEjDqEGzU4VtDR0fXKyjnGbAB8bODrrEKYCrhDu+e/Z63gTETAcN9OyZCZjeqm+2O2QirY46Unpjt7KN7u/7Gvpl7XpEOLrGBkXQNX0I/dj58A8wxUew9013qFXvHfPQ27PiqQcfVeKsbjACYov1wjbe/Jo6xw5JJOj87Hf/yRPf8mNf/+R/1BaKyMtts/EetAAAAAElFTkSuQmCC)
 ![JavaScript](https://img.shields.io/badge/JavaScript-282D33?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 ![HTML](https://img.shields.io/badge/HTML-282D33?style=for-the-badge&logo=html5&logoColor=e34f26)
 ![CSS](https://img.shields.io/badge/CSS-282D33?style=for-the-badge&logo=css3&logoColor=157286)
